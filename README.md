@@ -29,3 +29,6 @@ Address: {
 
 The Global Environment and Global Object
 Execution Context(Global)
+
+- Global Object
+- this
